@@ -1,1 +1,3 @@
-Initialization of my project
+# MFI360 Platform
+
+A full-suite Microfinance Institution (MFI) management platform.
